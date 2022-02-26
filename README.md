@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 -->
 - 😊 I’m currently looking for Internship in Data analytics
 - 🌱 I’m currently learning R programming 
-- ⚡ Fun fact: Pluto is smaller than the United States
+- 🎓 Education: NMIT(MBA)
+- ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
 
 ---
  Tools:<div align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI" ></a><a href="" target="_blank">
