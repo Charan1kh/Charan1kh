@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 
 ---
-
 <div align="center">
 <i>Data is </i> ❤️
 </div>
+
+---
 
 </br>
 
@@ -36,6 +37,10 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/charan1kh/" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
 <a href="https://www.reddit.com/user/CtwentyOne" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://www.instagram.com/ch.ar.an/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=charan1kh&label=Profile%20views&color=0e75b6&style=flat" alt="charan1kh" /> </p>
+
+---
 
 
 </div>
