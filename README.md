@@ -10,13 +10,16 @@ Here are some ideas to get you started:
 -->
 - 😊 I’m currently looking for Internship in Data analytics
 - 🌱 I’m currently learning R programming 
-- 💬 Ask me about ANYTING except Engineering
-- 📧 Reach me at: charan1kh@gmail.com
 - ⚡ Fun fact: Pluto is smaller than the United States
 
-
-
 ---
+ Tools:<div align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI" ></a><a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+</div>
+
+
 <div align="center">
 <i>Data is </i> ❤️
 </div>
@@ -26,7 +29,7 @@ Here are some ideas to get you started:
 </br>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1kh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=41fa6c&icon_color=6bb07b&text_color=D3D3D3&bg_color=0,000000,130F40" alt="charan1kh's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1kh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=41fa6c&icon_color=6bb07b&text_color=a6dde0&bg_color=0,28303b,071829" alt="charan1kh's Github Stats">
 
 
 ---
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://www.reddit.com/user/CtwentyOne" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://www.instagram.com/ch.ar.an/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=charan1kh&label=Profile%20views&color=0e75b6&style=flat" alt="charan1kh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=charan1kh&label=Profile%20views&color=352f45&style=flat" alt="charan1kh" /> </p>
 
 ---
 
