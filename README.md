@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 😊 I’m currently looking for Internship in Data analytics
 - 🌱 I’m currently learning R programming 
-- 🎓 Education: NMIT(MBA).
+- 🎓 Education: NMIT(MBA)
 - ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
 
 ---
