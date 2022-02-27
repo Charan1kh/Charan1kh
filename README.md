@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ---
-<i>Links:</i><br>
+<i>Click here:</i><br>
 
 
 <a href="https://www.linkedin.com/in/charan1kh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
