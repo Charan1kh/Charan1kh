@@ -1,6 +1,6 @@
 
 <h2 align="center">Hey, I'm Charan K</h2>
-<h3 align="center"> Data wizard & a CS Engg. from Bengaluru, Karnataka 🏠</h3>
+<h3 align="center"> Data wizard & a CS Eng. from Bengaluru, Karnataka 🏠</h3>
 
 
 <!--
