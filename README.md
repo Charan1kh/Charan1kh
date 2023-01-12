@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </br>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=41fa6c&icon_color=6bb07b&text_color=a6dde0&bg_color=0,28303b,071829" alt="charan1kh's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1kh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=41fa6c&icon_color=6bb07b&text_color=a6dde0&bg_color=0,28303b,071829" alt="charan1kh's Github Stats">
 
 
 ---
