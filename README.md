@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=charan1kh&label=Profile%20views&color=352f45&style=flat" alt="charan1kh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=charan1k&label=Profile%20views&color=352f45&style=flat" alt="charan1kh" /> </p>
 
 ---
 
