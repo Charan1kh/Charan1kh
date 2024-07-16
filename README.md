@@ -8,9 +8,9 @@
 
 Here are some ideas to get you started:
 -->
-- 😊 I’m currently working
-- 🌱 I’m currently learning PowerBi & Advance Excel
-- 🎓 Education: NMIT(MBA)'23
+- 👀 Actively,Lookiing for 'Data' oriented roles
+- 🌱 I’m currently learning Python for Data science
+- 🎓 Education: NMIT(MBA)'23 | RRIT(CSE)'21
 - ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
 
 ---
@@ -24,15 +24,6 @@ Here are some ideas to get you started:
 <div align="center">
 <i>Data is </i> ❤️
 </div>
-
-
----
-
-</br>
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1kh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=41fa6c&icon_color=6bb07b&text_color=a6dde0&bg_color=0,28303b,071829" alt="charan1kh's Github Stats">
-
 
 ---
 <i>Click here:</i><br>
