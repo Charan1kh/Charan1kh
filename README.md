@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=charan1kh&label=Profile%20views&color=352f45&style=flat" alt="charan1kh" /> </p>
+
 
  <div align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI" ></a><a href="" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook"></a>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <i>Data is </i> ❤️
 </div>
 ---
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=charan1kh&label=Profile%20views&color=352f45&style=flat" alt="charan1kh" /> </p>
 
 
 </div>
