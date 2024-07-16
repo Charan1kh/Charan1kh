@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
 <br />
 </div>
+</br>
+<br />
 <div align="center">
 <i>Data is </i> ❤️
 </div>
