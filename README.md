@@ -25,15 +25,7 @@ Here are some ideas to get you started:
 <i>Data is </i> ❤️
 </div>
 
----
-<div align="center">
-<i>Click here:</i><br>
 
-
-<a href="https://www.linkedin.com/in/charan1kh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.hackerrank.com/charan1kh/" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
- <a href="https://www.reddit.com/user/CtwentyOne" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
- <a href="https://www.discordapp.com/users/C'twentyOne#3805/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 
 
