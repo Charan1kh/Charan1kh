@@ -8,10 +8,12 @@
 
 Here are some ideas to get you started:
 -->
-- 👀 Actively, Looking for 'Data' oriented roles
-- 🌱 I’m currently learning Python for Data science
+- 👀 Actively, Looking for 'Data'/'Analytics' oriented roles
+- 🌱 I’m currently mastering Pandas for Data science
 - 🎓 Education: NMIT(MBA)'23 | RRIT(CSE)'21
 - ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
+- 🔗 Leetcode: https://leetcode.com/u/charan1kh/
+- 🔗 HackerRank: https://www.hackerrank.com/dashboard
 
 ---
 
