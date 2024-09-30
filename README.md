@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🎓 Education: NMIT(MBA)'23 | RRIT(CSE)'21
 - ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
 - 🔗 Leetcode: https://leetcode.com/u/charan1kh/
-- 🔗 HackerRank: [https://www.hackerrank.com/profile/charan1kh]
+- 🔗 HackerRank: https://www.hackerrank.com/profile/charan1kh
 
 ---
 
