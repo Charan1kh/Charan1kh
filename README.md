@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-- Partnership Operation Associate at EthosLife.
+- 💼 Partnership Operation Associate at EthosLife.
 - 🌱 I’m currently mastering Salesforce (SDFC).
 - 🎓 Education: NMIT(MBA)'23 | RRIT(CSE)'21
 - ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
