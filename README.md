@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 -->
-- 👀 Actively, Looking for 'Data'/'Analytics' oriented roles
-- 🌱 I’m currently mastering pandas & scikit-learn.
+- Partnership Operation Associate at EthosLife.
+- 🌱 I’m currently mastering Salesforce (SDFC).
 - 🎓 Education: NMIT(MBA)'23 | RRIT(CSE)'21
 - ⚡ Fun fact: There are nearly as many pieces of digital information as there are stars in the universe.
 - 🔗 Leetcode: https://leetcode.com/u/charan1kh/
